@@ -1,4 +1,5 @@
-> **▶ Live demo:** https://hithakishore-all.github.io/gtm-orbit/ (runs in your browser, synthetic data)
+> **▶ Live demo:** https://hithakishore-all.github.io/gtm-orbit/ (runs in your browser, synthetic data)  
+> **🎬 Full walkthrough video:** https://www.loom.com/share/7c63280e62d94164bc1f6162bdc25c4c
 
 # GTM Orbit
 
