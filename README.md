@@ -2,6 +2,8 @@
 
 # GTM Orbit
 
+![Demo](docs/gtm-orbit-demo.gif)
+
 **Every account has a next move. Orbit helps you find it.**
 
 GTM Orbit is an account intelligence and AI workflow workspace for sellers. It turns a ranked account into a
